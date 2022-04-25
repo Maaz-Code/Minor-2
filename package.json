@@ -1,0 +1,23 @@
+{
+  "name": "minor-2",
+  "version": "1.0.0",
+  "description": "This is our Minor project 2 for the 6th semester of B.Tech CSE CCVT batch of 2019-2023. We are working on a Comparitive Analysis of Scheduling Algorithms.\r ## Algorithms used:\r - Shortest Job First Algorithm\r - First Come First Serve Algorithm\r ## Languages used:\r - HTML \r - CSS \r - Javascript\r - Java\r ## IDE and Version Control: \r VScode and Git respectively.\r ## Project Members:\r - Maaz Ahmed, 500077097, R110219075\r - Anjali Kukrety, 500075308, R110219016\r - Anant Goel, 500076093, R110219010\r - Jinnie Shefali, 500076025, R110219064",
+  "main": "index.js",
+  "publishConfig": {
+    "@Maaz-Code:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maaz-Code/Minor-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maaz-Code/Minor-2/issues"
+  },
+  "homepage": "https://github.com/Maaz-Code/Minor-2#readme"
+  
+}
