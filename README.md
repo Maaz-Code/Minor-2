@@ -1,5 +1,5 @@
 # Minor Project 2
-This is our Minor project 2 for the 6th semester of B.Tech CSE CCVT batch of 2019-2023. We are working on a Comparitive Analysis of Scheduling Algorithms.
+This is our Minor project 2 for the 6th semester of B.Tech CSE CCVT batch of 2019-2023. We are working on a Comparitive Analysis of Scheduling Algorithms. We have created a Java Swing application which functions all the below mentioned algorithms. One can add processes and output gets displayed along with the Gantt chart.
 ## Algorithms used:
 - Shortest Job First Algorithm
 - First Come First Serve Algorithm
