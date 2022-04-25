@@ -3,13 +3,16 @@ This is our Minor project 2 for the 6th semester of B.Tech CSE CCVT batch of 201
 ## Algorithms used:
 - Shortest Job First Algorithm
 - First Come First Serve Algorithm
-## Languages used:
-- HTML 
-- CSS 
-- Javascript
+- Shortest Remaining Time First Algorithm
+- Priority Preemptive Algorithm
+- Priority Non-Preemptive Algorithm
+- Round-Robin Algorithm
+## Languages and Technology used:
 - Java
+- Swing Framework
+- XML
 ## IDE and Version Control: 
-VScode and Git respectively.
+VScode, Apache NetBeans, and Git respectively.
 ## Project Members:
 - Maaz Ahmed, 500077097, R110219075
 - Anjali Kukrety, 500075308, R110219016
