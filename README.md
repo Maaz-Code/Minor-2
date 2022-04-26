@@ -9,6 +9,7 @@ This is our Minor project 2 for the 6th semester of B.Tech CSE CCVT batch of 201
 - Round-Robin Algorithm
 ## Languages and Technology used:
 - Java
+- Java AWT
 - Swing Framework
 - XML
 ## IDE and Version Control: 
